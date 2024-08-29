@@ -1,0 +1,22 @@
+{
+    "UserService": {
+          "port": 9005,
+          "ip": "142.1.46.110"
+      }   ,
+      "OrderService": {
+          "port": 9006,
+          "ip": "142.1.46.109"
+      }   ,
+      "ProductService": {
+          "port": 9000,
+          "port": 9001,
+          "port": 9002,
+          "port": 9003,
+          "port": 9004,
+          "ip": "142.1.46.107"
+      }   ,
+      "InterServiceCommunication": {
+          "port": 9008,
+          "ip": "142.1.46.108"
+      }   
+  }
